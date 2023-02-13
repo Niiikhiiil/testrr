@@ -57,7 +57,7 @@ export default class App extends Component {
 								<li><b>Title</b>:{item.title}</li>
 								<li><b>Description</b>:{item.description}</li>
 								<li><b>Content</b>:{item.content}</li>
-								<p>-------------------------------------</p>
+								<p>---------------------donneee--------------------</p>
 							</div>
 						</>
 					);
